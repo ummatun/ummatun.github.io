@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Tribute Page
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/ummatun/TributePpage/tree/main
 tags:
   - Hugo
   - Wowchemy
@@ -9,5 +9,8 @@ tags:
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+![Dr. Yunus][def]
 <!--more-->
+
+
+[def]: yunus.jpeg
